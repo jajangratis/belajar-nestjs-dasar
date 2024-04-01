@@ -1,0 +1,13 @@
+{
+  "prettier/prettier": [
+    "error",
+    {
+      "singleQuote": false,
+      "parser": "flow",
+      "endOfLine": "auto"
+    },
+    {
+      "usePrettierrc": false
+    }
+  ]
+}
